@@ -1,3 +1,5 @@
+[![As seen on Open Source Alternatives](https://www.opensourcealternatives.to/badge-osa.svg)](https://www.opensourcealternatives.to)
+
 Redmine Tags
 ============
 
